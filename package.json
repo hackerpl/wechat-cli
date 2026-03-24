@@ -1,0 +1,27 @@
+{
+  "name": "wechat-cli",
+  "version": "0.1.0",
+  "description": "A Node.js CLI for common WeChat Official Account material workflows.",
+  "type": "module",
+  "bin": {
+    "wechat": "./bin/wechat.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "wechat",
+    "cli",
+    "wechat-official-account",
+    "npm"
+  ],
+  "license": "MIT"
+}
