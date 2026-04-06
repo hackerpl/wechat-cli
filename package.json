@@ -1,10 +1,10 @@
 {
-  "name": "wechat-cli",
-  "version": "0.1.0",
+  "name": "@hackerpl/wechat-cli",
+  "version": "0.1.1",
   "description": "A Node.js CLI for common WeChat Official Account material workflows.",
   "type": "module",
   "bin": {
-    "wechat": "./bin/wechat.js"
+    "wechat": "bin/wechat.js"
   },
   "files": [
     "bin",

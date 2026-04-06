@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm install -g wechat-cli
+npm install -g @hackerpl/wechat-cli
 ```
 
 如果是在仓库内本地体验：
